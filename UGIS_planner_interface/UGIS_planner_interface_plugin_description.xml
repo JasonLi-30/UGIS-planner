@@ -1,0 +1,7 @@
+<library path="moveit_UGIS_plugin">
+  <class name="my_interface/UGIS_Planner" type="my_interface::UGIS_PlannerManager" base_class_type="planning_interface::PlannerManager">
+    <description>
+    My motion planner plugin.
+    </description>
+  </class>
+</library>
