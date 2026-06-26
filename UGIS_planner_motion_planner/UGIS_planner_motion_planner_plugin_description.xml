@@ -1,0 +1,9 @@
+<library path="lib/libUGIS_planner_motion_planner">
+  <class name="my_planner/UGIS"
+         type="my_planner::UGIS"
+         base_class_type="planning_interface::PlannerManager">
+    <description>
+      UGIS planner plugin for MoveIt2
+    </description>
+  </class>
+</library>
